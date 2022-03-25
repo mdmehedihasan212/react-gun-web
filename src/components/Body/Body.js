@@ -30,6 +30,11 @@ const Body = () => {
                 {
                     carts.map(cart => <SelectedProduct key={cart.id} cart={cart}></SelectedProduct>)
                 }
+                <div className="selected-btn">
+                    <button className="select-btn">Choose One Item</button>
+                    <br />
+                    <button className="again-btn">Choose Again</button>
+                </div>
             </div>
         </div>
     );
