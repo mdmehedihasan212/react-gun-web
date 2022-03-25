@@ -1,5 +1,7 @@
 import React from 'react';
 import './Product.css';
+import { AiOutlineShoppingCart } from 'react-icons/ai';
+
 
 const Product = ({ product }) => {
     // console.log(product);
@@ -7,7 +9,18 @@ const Product = ({ product }) => {
     return (
         <div className="product-container">
             <img src={img} alt="gun_photo" />
-        </div>
+            <div className="product-info">
+                <p className="product-name">Name: {name}</p>
+                <p>Action: {action}</p>
+                <p>Price: {price}</p>
+            </div>
+            <div>
+                <button className="cart-btn">
+                    <p>Add to Cart</p>
+                    <AiOutlineShoppingCart className='icon' />
+                </button>
+            </div>
+        </div >
     );
 };
 

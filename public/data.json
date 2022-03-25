@@ -21,16 +21,6 @@
   },
   {
     "id": 3,
-    "name": "Kimber Custom 1911",
-    "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/ki%2Cber.png",
-    "bullet": "45 ACP",
-    "capacity": "7 + 1",
-    "action": "Semi-Automatic",
-    "price": "900",
-    "category": "Pistol"
-  },
-  {
-    "id": 4,
     "name": "Beretta M9A4 RDO",
     "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta.png",
     "bullet": "9mm",
@@ -40,7 +30,7 @@
     "category": "Pistol"
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Beretta A400 Xcel",
     "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/beretta-shotgun.png",
     "bullet": "12 Gauge",
@@ -50,7 +40,7 @@
     "category": "Shotgun"
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Benelli M1014",
     "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/benalim4.png",
     "bullet": "12 Gauge",
@@ -60,7 +50,7 @@
     "category": "Shotgun"
   },
   {
-    "id": 7,
+    "id": 6,
     "name": "Browning Citori 725",
     "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/Browning.png",
     "bullet": "12 Gauge",
@@ -70,7 +60,7 @@
     "category": "Shotgun"
   },
   {
-    "id": 8,
+    "id": 7,
     "name": "Winchester SXP",
     "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/winchester.png",
     "bullet": "12 Gauge",
@@ -80,7 +70,7 @@
     "category": "Shotgun"
   },
   {
-    "id": 9,
+    "id": 8,
     "name": "Bergara B-14 HMR",
     "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/bergara.png",
     "bullet": "6.5 Creedmoor",
@@ -90,7 +80,7 @@
     "category": "Rifle"
   },
   {
-    "id": 10,
+    "id": 9,
     "name": "Smith & Wesson M&P15",
     "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/S%26WM%26P15.png",
     "bullet": "5.56x45mm NATO",
@@ -100,7 +90,7 @@
     "category": "Rifle"
   },
   {
-    "id": 11,
+    "id": 10,
     "name": "Ruger AR-556",
     "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/RugerAR556.png",
     "bullet": ".223 NATO",
@@ -110,7 +100,7 @@
     "category": "Rifle"
   },
   {
-    "id": 12,
+    "id": 11,
     "name": "Ruger AR-556 MPR",
     "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/RugerAR556RMP.png",
     "bullet": ".223 NATO",
@@ -120,7 +110,7 @@
     "category": "Rifle"
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "Savage 110 Elite",
     "img": "https://raw.githubusercontent.com/mir-hussain/guns/main/guns/savage110.png",
     "bullet": ".300 Winchester Magnum",
