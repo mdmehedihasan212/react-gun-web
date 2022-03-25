@@ -5,7 +5,7 @@
     border-radius: 15px;
     position: relative;
     font-family:cursive;
-    
+    margin: 15px;
 }
 .product-container img{
     width: 150px;
@@ -14,10 +14,10 @@
     margin-left: 50px;
 }
 .product-name{
-    font-size: 20px;
+    font-size: 18px;
 }
 .product-info p{
-    margin: 5px 10px;
+    margin: 10px;
 }
 .cart-btn{
     width: 100%;

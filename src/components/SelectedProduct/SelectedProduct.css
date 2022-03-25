@@ -1,0 +1,18 @@
+.selected-product{
+    border: 1px solid seagreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.selected-product img{
+    width: 50px;
+    height: 40px;
+    margin-right: 10px;
+}
+.delete-btn{
+    border: none;
+}
+.delete-icon{
+    font-size: 2rem;
+    margin-left:10px;
+}
