@@ -44,6 +44,19 @@ const Body = () => {
                     <p>React Virtual DOM find most efficient way to update the browser's DOM.</p>
                     <p>React worth keeping a DOM tree it's manipulation</p>
                 </div>
+                <div className="second-question">
+                    <h2>Props vs State</h2>
+                    <p>Props are read only and State change asynchronous</p>
+                    <p>Props immutable and State mutable</p>
+                    <p>Props make component reusable and State cannot make components have state</p>
+                    <p>Props can accessed by the child component and State cannot be accessed by child component</p>
+                    <p>Props can pass properties from parent component and State can define state in the component it self</p>
+                </div>
+                <div className="third-question">
+                    <h2>How useState Works</h2>
+                    <p>useState enables you to add state to function components</p>
+                    <p>Calling useState inside a function components generates a single piese of state associated with that component</p>
+                </div>
             </div>
         </div>
     );
