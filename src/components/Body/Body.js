@@ -55,7 +55,7 @@ const Body = () => {
                 <div className="third-question">
                     <h2>How useState Works</h2>
                     <p>useState enables you to add state to function components</p>
-                    <p>Calling useState inside a function components generates a single piese of state associated with that component</p>
+                    <p>Calling useState inside a function components generates a single piece of state associated with that component</p>
                 </div>
             </div>
         </div>
