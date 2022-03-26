@@ -36,6 +36,15 @@ const Body = () => {
                     <button className="again-btn">Choose Again</button>
                 </div>
             </div>
+            <div className="question-container">
+                <div className="first-question">
+                    <h2>How React Work</h2>
+                    <p>React create a virtual DOM.</p>
+                    <p>React when it need read or write to the DOM.</p>
+                    <p>React Virtual DOM find most efficient way to update the browser's DOM.</p>
+                    <p>React worth keeping a DOM tree it's manipulation</p>
+                </div>
+            </div>
         </div>
     );
 };

@@ -1,8 +1,7 @@
 .product-container{
     width: 250px;
     height: 340px;
-    border: 2mm ridge rgb(181, 250, 250);
-    border-radius: 15px;
+    box-shadow: 2px 1px 3px 2.5px rgb(182, 182, 182);
     position: relative;
     font-family:cursive;
     margin: 15px;
@@ -17,7 +16,7 @@
     font-size: 18px;
 }
 .product-info p{
-    margin: 10px;
+    margin: 8px;
 }
 .cart-btn{
     width: 100%;
@@ -26,14 +25,14 @@
     font-family:cursive;
     border: none;
     border-radius: 10px;
-    background-color: #af40af;
-    color: aliceblue;
+    color: #af40af;
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 }
 .cart-btn p{
-    font-size: 0.8rem;
+    font-size: 1rem;
 }
 .icon {
     font-size: 1.5rem;

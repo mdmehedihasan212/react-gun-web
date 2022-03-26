@@ -1,6 +1,6 @@
 .body-container{
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 3fr 1fr;
     font-family:cursive;
 }
 .products-container{
@@ -10,13 +10,34 @@
     margin: 50px;
 }
 .selected-btn{
-    margin: 5px;
+    text-align: center;
 }
 .select-btn{
+    margin-top: 8px;
+    margin-bottom: 8px;
     width: 80%;
     height: 35px;
+    font-family:cursive;
+    font-size: 1rem;    
+    border: 2px solid seagreen;
+
 }
 .again-btn{
     width: 80%;
     height: 35px;
+    font-family:cursive;
+    font-size: 1rem;    
+    border: 2px solid red;
+}
+.selected-container{
+    padding: 20px;
+}
+.selected-container h2{
+    text-align: center;
+}
+.question-container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
 }
