@@ -3,7 +3,7 @@ import './SelectedProduct.css';
 import { MdDeleteForever } from 'react-icons/md';
 
 const SelectedProduct = ({ cart }) => {
-    console.log(cart);
+    // console.log(cart);
     const { img, name } = cart;
 
     return (
